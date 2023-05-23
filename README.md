@@ -1,10 +1,14 @@
 ### Hellow world! 👋
 
 
+## My name is Gerard
+
+- I’m currently working on
+
 - ![AWS Solution Architect](https://img.shields.io/badge/-AWS%20Solution%20Architect-232F3E?style=flat-square&logo=amazon-aws) 
 - ![FullStack Developer](https://img.shields.io/badge/-FullStack%20Developer-232F3E?style=flat-square&logo=javascript) 
 
-# 🤖 Skills
+# 🤖 Knowledge
 
 ![](https://img.shields.io/badge/-AWS%20Services-232F3E?style=flat-square&logo=amazon-aws)
 
@@ -19,6 +23,8 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 ![MongoDb](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL) 
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
 ![MongoDb](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-232F3E?style=flat-square&logo=docker-compose) 
 
