@@ -1,4 +1,4 @@
-### Hellow world! 👋
+### Hello world! 👋
 
 
 ## My name is Gerard
