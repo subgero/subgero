@@ -3,9 +3,9 @@
 
 ## My name is Gerard
 
-- I work as Cloud Engineer and I consider myself as a passionate programmer.
+I work as Cloud Engineer and I consider myself as a passionate programmer.
 
-- ![AWS Solution Architect](https://img.shields.io/badge/-AWS%20Solution%20Architect-232F3E?style=flat-square&logo=amazon-aws) 
+- ![AWS Solution Architect](https://img.shields.io/badge/-☁️%20Cloud%20Engineer-232F3E?style=flat-square&logo=cloud) 
 - ![FullStack Developer](https://img.shields.io/badge/-FullStack%20Developer-232F3E?style=flat-square&logo=javascript) 
 
 # 🤖 Knowledge
@@ -60,3 +60,7 @@ Here are some ideas to get you started:
 <img src="https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png">
 </a>
 <a href="https://www.credly.com/earner/earned/badge/1b594b9f-6d2f-47e9-8974-ad5f89076880"><img height="110px" alt="Business Accredited" src="https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/></a>
+
+# Help
+
+Do you wanna buy me a coffee? https://bmc.link/subgero
