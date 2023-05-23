@@ -3,7 +3,7 @@
 
 ## My name is Gerard
 
-- I’m currently working on
+- I work as Cloud Engineer and I consider myself as a passionate programmer.
 
 - ![AWS Solution Architect](https://img.shields.io/badge/-AWS%20Solution%20Architect-232F3E?style=flat-square&logo=amazon-aws) 
 - ![FullStack Developer](https://img.shields.io/badge/-FullStack%20Developer-232F3E?style=flat-square&logo=javascript) 
