@@ -12,6 +12,10 @@
 
 ![](https://img.shields.io/badge/-AWS%20Services-232F3E?style=flat-square&logo=amazon-aws)
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
+![MongoDb](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-232F3E?style=flat-square&logo=docker-compose) 
 
 ![ReactJs](https://img.shields.io/badge/-ReactJs-blue?style=flat-square&logo=react) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
@@ -20,18 +24,15 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) 
 ![ExpressJs](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=express) 
 
-![MongoDb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-![MongoDb](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL) 
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
-![MongoDb](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-232F3E?style=flat-square&logo=docker-compose) 
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-232F3E?style=flat-square&logo=css3) 
 ![SASS](https://img.shields.io/badge/-SASS-232F3E?style=flat-square&logo=sass) 
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-232F3E?style=flat-square&logo=bootstrap) 
+
+![MongoDb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![MongoDb](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL) 
+
 
 ![Drupal](https://img.shields.io/badge/Drupal-green?style=flat-square&logo=drupal)
 
