@@ -3,7 +3,7 @@
 
 ## My name is Gerard
 
-I work as Cloud Engineer and Web Developer.
+I've been working as an AWS Cloud Engineer.
 
 - ![AWS Solution Architect](https://img.shields.io/badge/-☁️%20Cloud%20Engineer-232F3E?style=flat-square&logo=cloud) 
 - ![FullStack Developer](https://img.shields.io/badge/-FullStack%20Developer-232F3E?style=flat-square&logo=javascript) 
