@@ -32,7 +32,7 @@ I've been working as an AWS Cloud Engineer.
 
 ![MongoDb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 ![MongoDb](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL) 
-
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#)
 
 ![Drupal](https://img.shields.io/badge/Drupal-green?style=flat-square&logo=drupal)
 
