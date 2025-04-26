@@ -67,6 +67,6 @@ Here are some ideas to get you started:
   <img height="110px" alt="Business Accredited" src="https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>
 </a>
 <a href="https://www.credly.com/badges/652a45d4-0eab-4830-8ade-5c56c1c3264a/public_url">
-  <img src="https://images.credly.com/size/110x110/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png">
+  <img src="https://images.credly.com/size/110x110/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" />
 </a>
 
