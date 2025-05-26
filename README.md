@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 
 # 🏅 Certs
 
+<a href="https://www.credly.com/badges/6a2b7e93-06c9-454e-a272-1d9b3f7cae81/public_url">
+  <img height="110px" alt="AWS Certified Cloud Practitioner – Associate" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+</a>
+
 <a href="https://www.credly.com/earner/earned/share/732e4894-27ee-4767-8380-72f61cb82d6c">
   <img height="110px" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
 </a>
