@@ -69,12 +69,12 @@ Here are some ideas to get you started:
   <img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/110x110/images/8f006312-3154-45bf-a845-4a043641e83c/blob"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/71527ff3-ace1-46de-8c52-086f1987e8b7">
-  <img src="https://images.credly.com/size/110x110/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
+  <img height="110px" src="https://images.credly.com/size/340x340/images/5749832b-21b7-47f9-9ad4-b2fef13d0454/blob">
 </a>
 <a href="https://www.credly.com/earner/earned/badge/1b594b9f-6d2f-47e9-8974-ad5f89076880">
   <img height="110px" alt="Business Accredited" src="https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>
 </a>
 <a href="https://www.credly.com/badges/652a45d4-0eab-4830-8ade-5c56c1c3264a/public_url">
-  <img src="https://images.credly.com/size/340x340/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" />
+  <img height="110px" src="https://images.credly.com/size/340x340/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" />
 </a>
 
