@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <img height="110px" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/c34683e9-7742-49eb-ad98-8b8b53a47772">
-  <img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/110x110/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"/>
+  <img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/110x110/images/8f006312-3154-45bf-a845-4a043641e83c/blob"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/71527ff3-ace1-46de-8c52-086f1987e8b7">
   <img src="https://images.credly.com/size/110x110/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png">
