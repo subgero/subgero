@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/110x110/images/8f006312-3154-45bf-a845-4a043641e83c/blob"/>
 </a>
 <a href="https://www.credly.com/badges/71527ff3-ace1-46de-8c52-086f1987e8b7/public_url">
-  <img height="110px" src="https://images.credly.com/size/110x110/images/71527ff3-ace1-46de-8c52-086f1987e8b7/blob">
+  <img height="110px" src="https://images.credly.com/size/680x680/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob">
 </a>
 <a href="https://www.credly.com/badges/1b594b9f-6d2f-47e9-8974-ad5f89076880/public_url">
   <img height="110px" alt="Business Accredited" src="https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>
